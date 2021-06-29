@@ -1,0 +1,2 @@
+# project-madness
+Аренный шутер от первого лица с волнами ИИ противников. Большой фокус делается на экшн и скорость игры - игрок постоянно находится в движении, одновременно отстреливаясь от врагов. Идея вдохновлена Quake и Get To The Orange Door. // First-person arena shooter, based around waves of enemies. The gameplay is highly focused on mobility and action, with the player having to constantly move to dodge enemy attacks, while firing back in the process. Inspired by Quake and Get To The Orange Door.
