@@ -1920,3 +1920,74 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.07.05-14.13.17:956][302]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/Arena1CFA700084D5F12FB546A328B66EE717E.tmp' to '../../../../Project madness/project-madness/Content/Maps/Arena1.umap'
 [2021.07.05-14.13.18:011][302]AssetCheck: New page: Asset Save: Arena1
 [2021.07.05-14.13.18:011][302]LogContentValidation: Display: Validating World /Game/Maps/Arena1.Arena1
+[2021.07.05-14.15.02:266][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.07.05-14.15.03:540][ 30]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.05-14.15.03:906][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2021.07.05-14.15.03:958][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2021.07.05-14.15.03:988][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.07.05-14.15.16:884][122]LogFactory: Error: Can't find file 'C:\Users\egork\AppData\Local\Temp\7zE0627BF7D\1.png' for import
+[2021.07.05-14.15.21:482][122]LogSlate: Window 'Message' being destroyed
+[2021.07.05-14.15.21:488][122]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\egork\AppData\Local\Temp\7zE0627BF7D\1.png'. Failed to create asset '/Game/ProjectMadness/UI/1'.
+Please see Output Log for details.
+[2021.07.05-14.15.21:608][122]LogAssetTools: Warning: Failed to import 'C:\Users\egork\AppData\Local\Temp\7zE0627BF7D\1.png'. Failed to create asset '/Game/ProjectMadness/UI/1'.
+Please see Output Log for details.
+[2021.07.05-14.15.21:610][122]LogFactory: Error: Can't find file 'C:\Users\egork\AppData\Local\Temp\7zE0627BF7D\2.png' for import
+[2021.07.05-14.15.22:500][122]LogSlate: Window 'Message' being destroyed
+[2021.07.05-14.15.22:506][122]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\egork\AppData\Local\Temp\7zE0627BF7D\2.png'. Failed to create asset '/Game/ProjectMadness/UI/2'.
+Please see Output Log for details.
+[2021.07.05-14.15.22:506][122]LogAssetTools: Warning: Failed to import 'C:\Users\egork\AppData\Local\Temp\7zE0627BF7D\2.png'. Failed to create asset '/Game/ProjectMadness/UI/2'.
+Please see Output Log for details.
+[2021.07.05-14.15.58:500][375]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\DOWNLOWDS\2.png)
+[2021.07.05-14.15.58:522][375]LogTexture: Display: Building textures: 2 (BGRA8, 609X609)
+[2021.07.05-14.15.58:522][375]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:\DOWNLOWDS\1.png)
+[2021.07.05-14.15.58:547][375]LogTexture: Display: Building textures: 1 (BGRA8, 605X597)
+[2021.07.05-14.15.58:547][375]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [SEditorViewport.cpp(55)].
+[2021.07.05-14.16.06:587][612]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/ProjectMadness/UI/2.2
+[2021.07.05-14.16.06:831][612]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2021.07.05-14.16.11:120][759]LogSlate: Window '2' being destroyed
+[2021.07.05-14.16.11:130][759]LogSlate: Window '2' being destroyed
+[2021.07.05-14.16.12:519][830]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/ProjectMadness/UI/1.1
+[2021.07.05-14.16.21:203][215]LogSlate: Window '1' being destroyed
+[2021.07.05-14.16.21:213][215]LogSlate: Window '1' being destroyed
+[2021.07.05-14.16.28:933][678]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ProjectMadness/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.07.05-14.16.30:117][679]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/CharacterMovementComponent_16.svg'. File could not be found
+[2021.07.05-14.17.28:159][692]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-I56BANF
+[2021.07.05-14.19.21:843][ 41]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/platforms/platform_" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/platforms/platform_.uasset" SILENT=true
+[2021.07.05-14.19.21:882][ 41]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/platform_02A6101345E174DE1A1B02B6A65D07E4.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/platforms/platform_.uasset'
+[2021.07.05-14.19.21:950][ 41]AssetCheck: New page: Asset Save: platform_
+[2021.07.05-14.19.21:950][ 41]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/platforms/platform_.platform_
+[2021.07.05-14.19.26:052][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/platforms/platform_" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/platforms/platform_.uasset" SILENT=true
+[2021.07.05-14.19.26:085][400]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/platform_272A129C40C9DBB1B35A27A6F50FE662.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/platforms/platform_.uasset'
+[2021.07.05-14.19.26:160][400]AssetCheck: New page: Asset Save: platform_
+[2021.07.05-14.19.26:160][400]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/platforms/platform_.platform_
+[2021.07.05-14.19.30:314][787]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/ThirdPersonCharacter098B94B5450016479EF4B6B25D00FA7E.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.07.05-14.19.30:453][787]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.07.05-14.19.30:454][787]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.07.05-14.19.44:939][226]Cmd: MODE GRID=0
+[2021.07.05-14.21.48:487][426]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.05-14.21.48:524][426]LogMaterial: Display: Missing cached shadermap for Preview:Material in PCD3D_SM5, Default, SM5 (DDC key hash: 20B77A930EB8005C4DC19C6AD36A763B94F0CEAC), compiling. 
+[2021.07.05-14.21.48:560][426]MaterialEditorStats: Texture samplers: 0/16
+[2021.07.05-14.21.48:560][426]MaterialEditorStats: 
+[2021.07.05-14.21.48:560][426]MaterialEditorStats: Shader Count: 0
+[2021.07.05-14.21.48:714][428]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.07.05-14.21.48:714][428]LogShaderCompilers: Display: Total job queries 660, among them cache hits 500 (75.76%)
+[2021.07.05-14.21.48:714][428]LogShaderCompilers: Display: Tracking 126 distinct input hashes that result in 79 distinct outputs (62.70%)
+[2021.07.05-14.21.48:714][428]LogShaderCompilers: Display: RAM used: 0.33 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.04%
+[2021.07.05-14.21.48:714][428]LogShaderCompilers: Display: ================================================
+[2021.07.05-14.21.48:795][429]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.07.05-14.21.48:795][429]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2021.07.05-14.21.48:795][429]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2021.07.05-14.21.48:796][429]MaterialEditorStats: Texture samplers: 2/16
+[2021.07.05-14.21.48:796][429]MaterialEditorStats: 
+[2021.07.05-14.21.48:796][429]MaterialEditorStats: Shader Count: 12
+[2021.07.05-14.21.49:000][431]LogEditorTransaction: Undo Modify Component(s)
+[2021.07.05-14.21.49:017][431]LogMaterial: Display: Missing cached shadermap for Preview:Material in PCD3D_SM5, Default, SM5 (DDC key hash: D9C337470C002652B37E7ED3076C1AEFD00A721B), compiling. 
+[2021.07.05-14.21.49:031][431]MaterialEditorStats: Texture samplers: 0/16
+[2021.07.05-14.21.49:031][431]MaterialEditorStats: 
+[2021.07.05-14.21.49:031][431]MaterialEditorStats: Shader Count: 0
+[2021.07.05-14.21.49:235][434]MaterialEditorStats: Base pass shader: 148 instructions
+[2021.07.05-14.21.49:235][434]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 222 instructions
+[2021.07.05-14.21.49:235][434]MaterialEditorStats: Base pass vertex shader: 107 instructions
+[2021.07.05-14.21.49:235][434]MaterialEditorStats: Texture samplers: 2/16
+[2021.07.05-14.21.49:235][434]MaterialEditorStats: 
+[2021.07.05-14.21.49:235][434]MaterialEditorStats: Shader Count: 12
