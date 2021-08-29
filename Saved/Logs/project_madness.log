@@ -5122,3 +5122,15 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.08.29-11.56.19:538][766]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
 [2021.08.29-11.59.33:798][960]BlueprintLog: New page: Compile ThirdPersonCharacter
 [2021.08.29-11.59.34:134][960]LogUObjectHash: Compacting FUObjectHashTables data took  11.88ms
+[2021.08.29-11.59.35:159][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainArena" FILE="../../../../Project madness/project-madness/Content/Maps/MainArena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.29-11.59.35:249][976]LogUObjectHash: Compacting FUObjectHashTables data took  13.95ms
+[2021.08.29-11.59.35:454][976]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/MainArena3990FA634869B14B9BAB7784B1ACEBF2.tmp' to '../../../../Project madness/project-madness/Content/Maps/MainArena.umap'
+[2021.08.29-11.59.35:476][976]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/MainArena_BuiltData
+[2021.08.29-11.59.35:476][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainArena_BuiltData" FILE="../../../../Project madness/project-madness/Content/Maps/MainArena_BuiltData.uasset" SILENT=true
+[2021.08.29-11.59.35:502][976]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/MainArena_BuiltData2A47D5074C6ED3AC77345D8DA6FD2EB4.tmp' to '../../../../Project madness/project-madness/Content/Maps/MainArena_BuiltData.uasset'
+[2021.08.29-11.59.35:504][976]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/MainArena_BuiltData
+[2021.08.29-11.59.35:528][976]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.29-11.59.35:529][976]LogContentValidation: Display: Validating World /Game/Maps/MainArena.MainArena
+[2021.08.29-11.59.35:529][976]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainArena_BuiltData.MainArena_BuiltData
