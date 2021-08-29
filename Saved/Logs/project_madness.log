@@ -11308,3 +11308,797 @@ Make sure 'BP_Camicadse_C' has been compiled for  Set Target
 [2021.08.29-00.03.06:460][509]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
 [2021.08.29-00.03.12:161][896]BlueprintLog: New page: Compile BP_Camicadse
 [2021.08.29-00.03.12:279][896]LogUObjectHash: Compacting FUObjectHashTables data took   7.41ms
+[2021.08.29-00.04.55:222][ 46]Cmd: EDIT COPY
+[2021.08.29-00.05.18:480][150]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.29-00.05.18:480][150]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.29-00.06.55:286][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.06.55:343][833]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_CamicadseA4174C64423354D2A3180A9F3D0ED839.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.06.55:371][833]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.06.55:371][833]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.06.56:255][895]BlueprintLog: New page: Compile BP_Camicadse
+[2021.08.29-00.06.56:364][895]LogUObjectHash: Compacting FUObjectHashTables data took   8.55ms
+[2021.08.29-00.06.56:601][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.06.56:653][896]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse57591BEA4F915DD7418F81B455EA6F41.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.06.56:669][896]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.06.56:670][896]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.06.59:356][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainArena" FILE="../../../../Project madness/project-madness/Content/Maps/MainArena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.29-00.06.59:410][976]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2021.08.29-00.06.59:622][976]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/MainArena2AC16DD240C239FC5BC9A7A03F3A923F.tmp' to '../../../../Project madness/project-madness/Content/Maps/MainArena.umap'
+[2021.08.29-00.06.59:647][976]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/MainArena_BuiltData
+[2021.08.29-00.06.59:647][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainArena_BuiltData" FILE="../../../../Project madness/project-madness/Content/Maps/MainArena_BuiltData.uasset" SILENT=true
+[2021.08.29-00.06.59:676][976]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/MainArena_BuiltData866F114844E9C854BDA86093013F64A7.tmp' to '../../../../Project madness/project-madness/Content/Maps/MainArena_BuiltData.uasset'
+[2021.08.29-00.06.59:678][976]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/MainArena_BuiltData
+[2021.08.29-00.06.59:697][976]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.29-00.06.59:697][976]LogContentValidation: Display: Validating World /Game/Maps/MainArena.MainArena
+[2021.08.29-00.06.59:697][976]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainArena_BuiltData.MainArena_BuiltData
+[2021.08.29-00.09.36:761][ 71]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.29-00.09.36:761][ 71]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.29-00.09.40:159][163]LogEditorViewport: Clicking Background
+[2021.08.29-00.09.40:364][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainArena" FILE="../../../../Project madness/project-madness/Content/Maps/MainArena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.29-00.09.40:414][164]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2021.08.29-00.09.40:603][164]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/MainArena1B0ED14544F6ACBCEE123198BC4A1564.tmp' to '../../../../Project madness/project-madness/Content/Maps/MainArena.umap'
+[2021.08.29-00.09.40:626][164]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/MainArena_BuiltData
+[2021.08.29-00.09.40:626][164]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainArena_BuiltData" FILE="../../../../Project madness/project-madness/Content/Maps/MainArena_BuiltData.uasset" SILENT=true
+[2021.08.29-00.09.40:654][164]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/MainArena_BuiltData84E2916449CF96A6A36CEEA5C4F3F332.tmp' to '../../../../Project madness/project-madness/Content/Maps/MainArena_BuiltData.uasset'
+[2021.08.29-00.09.40:655][164]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/MainArena_BuiltData
+[2021.08.29-00.09.40:674][164]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.29-00.09.40:674][164]LogContentValidation: Display: Validating World /Game/Maps/MainArena.MainArena
+[2021.08.29-00.09.40:674][164]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainArena_BuiltData.MainArena_BuiltData
+[2021.08.29-00.10.11:240][  8]Cmd: SELECT NONE
+[2021.08.29-00.10.15:464][110]Cmd: SELECT NONE
+[2021.08.29-00.10.17:168][152]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.08.29-00.10.17:186][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.29-00.10.17:186][152]PIE: New page: PIE session: MainArena (29 авг. 2021 г., 06:10:17)
+[2021.08.29-00.10.17:186][152]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainArena
+[2021.08.29-00.10.17:239][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053292s)
+[2021.08.29-00.10.17:241][152]LogAIModule: Creating AISystem for world MainArena
+[2021.08.29-00.10.17:241][152]LogPlayLevel: PIE: World Init took: (0.002229s)
+[2021.08.29-00.10.17:242][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainArena.MainArena to /Game/Maps/UEDPIE_0_MainArena.MainArena (0.055784s)
+[2021.08.29-00.10.17:286][152]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2021.08.29-00.10.17:289][152]LogAudio: Display: Creating Audio Device:                 Id: 106, Scope: Unique, Realtime: True
+[2021.08.29-00.10.17:289][152]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.29-00.10.17:289][152]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.29-00.10.17:289][152]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.29-00.10.17:289][152]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.29-00.10.17:289][152]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.29-00.10.17:289][152]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.29-00.10.17:289][152]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.29-00.10.17:289][152]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.29-00.10.17:290][152]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.29-00.10.17:290][152]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.29-00.10.17:297][152]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.29-00.10.17:297][152]LogAudioMixer: Display: 1: FrontRight
+[2021.08.29-00.10.17:311][152]LogAudioMixer: Display: Using Audio Device Наушники (XMFHZ02 Stereo)
+[2021.08.29-00.10.17:311][152]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.29-00.10.17:311][152]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.29-00.10.17:311][152]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.29-00.10.17:313][152]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.29-00.10.17:313][152]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.29-00.10.17:314][152]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.29-00.10.17:314][152]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.29-00.10.17:314][152]LogInit: FAudioDevice initialized.
+[2021.08.29-00.10.17:314][152]LogAudio: Display: Audio Device (ID: 106) registered with world 'MainArena'.
+[2021.08.29-00.10.17:326][152]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.29-00.10.17:345][152]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainArena.MainArena up for play (max tick rate 0) at 2021.08.29-03.10.17
+[2021.08.29-00.10.17:345][152]LogWorld: Bringing up level for play took: 0.019113
+[2021.08.29-00.10.17:345][152]LogOnline: OSS: Creating online subsystem instance for: :Context_128
+[2021.08.29-00.10.17:365][152]PIE: Server logged in
+[2021.08.29-00.10.17:366][152]PIE: Play in editor total start time 0,185 seconds.
+[2021.08.29-00.10.17:396][152]LogBlueprintUserMessages: [MainArena_C_1] New wave comming...
+[2021.08.29-00.10.17:396][152]LogBlueprintUserMessages: [MainArena_C_1] Wave 1
+[2021.08.29-00.10.17:397][152]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.10.17:397][152]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.10.17:397][152]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.10.17:398][152]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.10.17:398][152]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.10.17:398][152]LogBlueprintUserMessages: [MainArena_C_1] Wave complited
+[2021.08.29-00.10.17:490][154]LogBlueprintUserMessages: [BP_Camicadse_C_1] Battle mod on
+[2021.08.29-00.10.18:894][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-00.10.18:894][197]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainArena
+[2021.08.29-00.10.18:895][197]LogWorld: UWorld::CleanupWorld for MainArena, bSessionEnded=true, bCleanupResources=true
+[2021.08.29-00.10.18:899][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-00.10.18:943][197]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.29-00.10.18:952][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-00.10.18:992][197]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-00.10.18:995][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-00.10.18:997][197]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-00.10.19:011][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.08.29-00.10.19:060][197]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2021.08.29-00.10.19:120][198]LogPlayLevel: Display: Destroying online subsystem :Context_128
+[2021.08.29-00.10.35:321][641]Cmd: DELETE
+[2021.08.29-00.10.35:321][641]Cmd: ACTOR DELETE
+[2021.08.29-00.10.35:332][641]LogEditorActor: Deleted Actor: AtmosphericFog
+[2021.08.29-00.10.35:376][641]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2021.08.29-00.10.35:381][641]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2021.08.29-00.10.37:567][703]Cmd: TRANSACTION UNDO
+[2021.08.29-00.10.37:567][703]LogEditorTransaction: Undo Delete Elements
+[2021.08.29-00.10.39:835][747]Cmd: DELETE
+[2021.08.29-00.10.39:835][747]Cmd: ACTOR DELETE
+[2021.08.29-00.10.39:846][747]LogEditorActor: Deleted Actor: AtmosphericFog
+[2021.08.29-00.10.39:896][747]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2021.08.29-00.10.39:900][747]LogEditorActor: Deleted 1 Actors (0.065 secs)
+[2021.08.29-00.11.07:488][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.11.07:528][112]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse70908F7249319F0525AAFC8C0BF0A86C.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.11.07:545][112]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.11.07:545][112]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.11.36:905][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.11.36:950][ 45]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse4051BE8F42F303975CE574BC87F4A361.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.11.36:967][ 45]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.11.36:967][ 45]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.11.38:290][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.11.38:339][117]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_CamicadseDB6A33934C5E93C582B1DDB9C76075E4.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.11.38:356][117]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.11.38:356][117]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.12.03:150][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.12.03:205][ 58]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse45DD39574577FF12BD3C7A83D1FB3C60.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.12.03:225][ 58]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.12.03:225][ 58]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.12.05:652][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.12.05:693][250]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_CamicadseF5E7FB9749C05579F422AE910C53C901.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.12.05:708][250]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.12.05:709][250]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.12.07:287][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.12.07:331][388]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse841DCCBD4D402645B8D8A685C4CF9601.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.12.07:347][388]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.12.07:347][388]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.12.38:694][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.12.38:758][ 59]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse972A74124E4CD888C69DB4AEF5DBAE53.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.12.38:781][ 59]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.12.38:781][ 59]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.13.04:049][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.13.04:101][685]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse7EE0078546A15F152006C79C4F1622A6.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.13.04:121][685]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.13.04:121][685]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.13.05:832][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.13.05:877][864]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse6C58ED4148D6BA05F32B1BB6A79A8E39.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.13.05:894][864]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.13.05:894][864]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.14.22:467][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.14.22:526][595]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse8B9CD2264C7FADA485170DAB6CA13118.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.14.22:547][595]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.14.22:547][595]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.14.25:220][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.14.25:267][862]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse3AD7B5044CD1145AB3722A8E8A6733C6.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.14.25:285][862]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.14.25:285][862]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.14.53:023][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.14.53:100][856]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_CamicadseB872AC3A4759197B7F4A6581C357C0DD.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.14.53:119][856]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.14.53:120][856]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.15.03:799][613]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.15.03:864][613]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_CamicadseF1E2952845BF5983863B7EA07B053452.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.15.03:882][613]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.15.03:882][613]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.15.08:367][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.15.08:432][957]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse098BFA40476AABF4CD28949656D02DB0.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.15.08:452][957]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.15.08:452][957]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.15.14:776][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.15.14:842][287]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse1AEC1655490187E3511F2199287974FC.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.15.14:862][287]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.15.14:862][287]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.15.20:663][668]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.15.20:721][668]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse9AC124C24EB1E6DE7C9200BF1036F78D.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.15.20:743][668]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.15.20:743][668]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.15.24:984][944]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.15.25:032][944]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse2A8B4AEC447A422C0C2976AF2B2FFF2E.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.15.25:050][944]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.15.25:050][944]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.15.26:436][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.15.26:487][ 39]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse98BBBC2C4B492D6F4011C0948132968B.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.15.26:503][ 39]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.15.26:503][ 39]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.15.58:110][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.15.58:180][715]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_CamicadseA1C1D53E472C706B3CA57F899A8CBF16.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.15.58:199][715]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.15.58:199][715]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.16.01:439][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.16.01:488][758]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse6D6369BF4F867A59FA855CBF5002B2E1.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.16.01:504][758]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.16.01:505][758]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.16.42:236][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.16.42:312][134]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse996FC1064282B72940E993B223350349.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.16.42:335][134]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.16.42:335][134]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.17.26:983][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.17.27:046][ 47]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse821CB5F146C802FFD3B2ACAF89A27B35.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.17.27:065][ 47]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.17.27:065][ 47]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.17.33:697][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.17.33:863][612]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse92F1B82F4C351925D08F05922D5451F3.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.17.33:882][612]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.17.33:882][612]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.17.39:252][861]BlueprintLog: New page: Compile BP_Camicadse
+[2021.08.29-00.17.39:384][861]LogUObjectHash: Compacting FUObjectHashTables data took   7.33ms
+[2021.08.29-00.17.40:138][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.17.40:212][884]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse0FD31FC048AFA739A875908D02EAB7DE.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.17.40:230][884]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.17.40:231][884]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.18.06:252][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.18.06:322][ 98]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_CamicadseAABC5F504A424F93FD13D3A55F3C560C.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.18.06:340][ 98]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.18.06:340][ 98]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.18.09:577][283]BlueprintLog: New page: Compile BP_Camicadse
+[2021.08.29-00.18.09:691][283]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2021.08.29-00.18.10:239][299]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.18.10:314][299]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_CamicadseA8BC5CD3487176B8A17300B9A8B1EDDF.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.18.10:334][299]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.18.10:334][299]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.18.39:831][329]BlueprintLog: New page: Compile BP_Camicadse
+[2021.08.29-00.18.39:946][329]LogUObjectHash: Compacting FUObjectHashTables data took   7.29ms
+[2021.08.29-00.18.40:640][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.18.40:703][364]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse0D70A8B74DF85280CC306FA4F0114DB0.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.18.40:721][364]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.18.40:721][364]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.18.42:282][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainArena" FILE="../../../../Project madness/project-madness/Content/Maps/MainArena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.29-00.18.42:340][431]LogUObjectHash: Compacting FUObjectHashTables data took   8.81ms
+[2021.08.29-00.18.42:545][431]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/MainArena31D17ECF4C998D3EF9E7799E3428821B.tmp' to '../../../../Project madness/project-madness/Content/Maps/MainArena.umap'
+[2021.08.29-00.18.42:567][431]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/MainArena_BuiltData
+[2021.08.29-00.18.42:567][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainArena_BuiltData" FILE="../../../../Project madness/project-madness/Content/Maps/MainArena_BuiltData.uasset" SILENT=true
+[2021.08.29-00.18.42:590][431]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/MainArena_BuiltDataE5226BC043B40D8F15F5349A84772C00.tmp' to '../../../../Project madness/project-madness/Content/Maps/MainArena_BuiltData.uasset'
+[2021.08.29-00.18.42:592][431]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/MainArena_BuiltData
+[2021.08.29-00.18.42:610][431]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.29-00.18.42:610][431]LogContentValidation: Display: Validating World /Game/Maps/MainArena.MainArena
+[2021.08.29-00.18.42:610][431]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainArena_BuiltData.MainArena_BuiltData
+[2021.08.29-00.18.44:616][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.18.44:670][503]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse989F9481475BB9D0CC6F9DA6AEDBD188.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.18.44:688][503]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.18.44:689][503]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.18.58:131][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.18.58:189][466]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse9A7757BF442B4AFA9507D08A724BE961.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.18.58:207][466]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.18.58:207][466]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.18.59:933][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.18.59:986][570]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_CamicadseAAA40CEB4972F30D0123F69D8D1CE083.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.19.00:004][570]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.19.00:004][570]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.19.03:139][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.19.03:212][753]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse2FB9B6014A607735D2956B9182AF12EF.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.19.03:232][753]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.19.03:232][753]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.19.04:972][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.19.05:023][854]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse3CE4A2CD4B9F1C7FA794E789B5E846DD.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.19.05:039][854]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.19.05:039][854]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.19.23:306][  5]BlueprintLog: New page: Compile DefaultEnemy
+[2021.08.29-00.19.23:425][  5]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2021.08.29-00.19.23:882][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/Default/DefaultEnemy" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/Default/DefaultEnemy.uasset" SILENT=true
+[2021.08.29-00.19.24:022][ 16]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/DefaultEnemy9704BBD7452D6F7508F7C9996C8153B4.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/Default/DefaultEnemy.uasset'
+[2021.08.29-00.19.24:046][ 16]AssetCheck: New page: Asset Save: DefaultEnemy
+[2021.08.29-00.19.24:046][ 16]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/Default/DefaultEnemy.DefaultEnemy
+[2021.08.29-00.19.24:795][ 59]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/Default/DefaultEnemy" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/Default/DefaultEnemy.uasset" SILENT=true
+[2021.08.29-00.19.24:898][ 59]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/DefaultEnemyC81E14CA4293B809C66C65A6151E268F.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/Default/DefaultEnemy.uasset'
+[2021.08.29-00.19.24:921][ 59]AssetCheck: New page: Asset Save: DefaultEnemy
+[2021.08.29-00.19.24:921][ 59]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/Default/DefaultEnemy.DefaultEnemy
+[2021.08.29-00.20.08:594][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/Default/DefaultEnemy" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/Default/DefaultEnemy.uasset" SILENT=true
+[2021.08.29-00.20.08:717][740]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/DefaultEnemyC4DABE884A62798F83529CA68043C9DD.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/Default/DefaultEnemy.uasset'
+[2021.08.29-00.20.08:740][740]AssetCheck: New page: Asset Save: DefaultEnemy
+[2021.08.29-00.20.08:741][740]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/Default/DefaultEnemy.DefaultEnemy
+[2021.08.29-00.20.26:242][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/Default/DefaultEnemy" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/Default/DefaultEnemy.uasset" SILENT=true
+[2021.08.29-00.20.26:327][753]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/DefaultEnemyC16DD24D4548E5F229A56BB00DC01C86.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/Default/DefaultEnemy.uasset'
+[2021.08.29-00.20.26:346][753]AssetCheck: New page: Asset Save: DefaultEnemy
+[2021.08.29-00.20.26:346][753]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/Default/DefaultEnemy.DefaultEnemy
+[2021.08.29-00.20.50:868][785]LogSlate: Window 'Change Variable Type' being destroyed
+[2021.08.29-00.20.53:317][867]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.08.29-00.20.53:329][867]LogSlate: Window 'Find in Blueprints' being destroyed
+[2021.08.29-00.20.54:720][938]BlueprintLog: New page: Compile DefaultEnemy
+[2021.08.29-00.20.54:853][938]LogUObjectHash: Compacting FUObjectHashTables data took   9.14ms
+[2021.08.29-00.20.58:814][143]BlueprintLog: New page: Compile DefaultEnemy
+[2021.08.29-00.20.58:940][143]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2021.08.29-00.20.59:764][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/Default/DefaultEnemy" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/Default/DefaultEnemy.uasset" SILENT=true
+[2021.08.29-00.20.59:863][175]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/DefaultEnemy278D935C441B94ADD991B09C0341B933.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/Default/DefaultEnemy.uasset'
+[2021.08.29-00.20.59:880][175]AssetCheck: New page: Asset Save: DefaultEnemy
+[2021.08.29-00.20.59:880][175]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/Default/DefaultEnemy.DefaultEnemy
+[2021.08.29-00.21.02:233][267]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.08.29-00.21.02:251][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.29-00.21.02:252][267]PIE: New page: PIE session: MainArena (29 авг. 2021 г., 06:21:02)
+[2021.08.29-00.21.02:252][267]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainArena
+[2021.08.29-00.21.02:304][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.051852s)
+[2021.08.29-00.21.02:305][267]LogAIModule: Creating AISystem for world MainArena
+[2021.08.29-00.21.02:306][267]LogPlayLevel: PIE: World Init took: (0.002244s)
+[2021.08.29-00.21.02:306][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainArena.MainArena to /Game/Maps/UEDPIE_0_MainArena.MainArena (0.054364s)
+[2021.08.29-00.21.02:357][267]LogUObjectHash: Compacting FUObjectHashTables data took   7.29ms
+[2021.08.29-00.21.02:365][267]LogAudio: Display: Creating Audio Device:                 Id: 107, Scope: Unique, Realtime: True
+[2021.08.29-00.21.02:366][267]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.29-00.21.02:366][267]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.29-00.21.02:366][267]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.29-00.21.02:366][267]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.29-00.21.02:366][267]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.29-00.21.02:366][267]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.29-00.21.02:366][267]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.29-00.21.02:366][267]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.29-00.21.02:367][267]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.29-00.21.02:367][267]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.29-00.21.02:374][267]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.29-00.21.02:375][267]LogAudioMixer: Display: 1: FrontRight
+[2021.08.29-00.21.02:391][267]LogAudioMixer: Display: Using Audio Device Наушники (XMFHZ02 Stereo)
+[2021.08.29-00.21.02:391][267]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.29-00.21.02:391][267]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.29-00.21.02:391][267]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.29-00.21.02:393][267]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.29-00.21.02:393][267]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.29-00.21.02:394][267]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.29-00.21.02:394][267]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.29-00.21.02:395][267]LogInit: FAudioDevice initialized.
+[2021.08.29-00.21.02:395][267]LogAudio: Display: Audio Device (ID: 107) registered with world 'MainArena'.
+[2021.08.29-00.21.02:406][267]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.29-00.21.02:428][267]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainArena.MainArena up for play (max tick rate 0) at 2021.08.29-03.21.02
+[2021.08.29-00.21.02:429][267]LogWorld: Bringing up level for play took: 0.022643
+[2021.08.29-00.21.02:429][267]LogOnline: OSS: Creating online subsystem instance for: :Context_129
+[2021.08.29-00.21.02:452][267]PIE: Server logged in
+[2021.08.29-00.21.02:452][267]PIE: Play in editor total start time 0,205 seconds.
+[2021.08.29-00.21.02:487][267]LogBlueprintUserMessages: [MainArena_C_1] New wave comming...
+[2021.08.29-00.21.02:487][267]LogBlueprintUserMessages: [MainArena_C_1] Wave 1
+[2021.08.29-00.21.02:488][267]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.21.02:488][267]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.21.02:488][267]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.21.02:489][267]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.21.02:489][267]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.21.02:490][267]LogBlueprintUserMessages: [MainArena_C_1] Wave complited
+[2021.08.29-00.21.02:686][271]LogBlueprintUserMessages: [BP_Camicadse_C_1] Battle mod on
+[2021.08.29-00.21.05:639][382]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Get Damage10.0
+[2021.08.29-00.21.09:393][528]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	BP_Camicadse_C /Game/Maps/UEDPIE_0_MainArena.MainArena:PersistentLevel.BP_Camicadse_C_1
+	Function /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse_C:ExecuteUbergraph_BP_Camicadse:0000
+[2021.08.29-00.21.09:393][528]PIE: Error: Infinite loop detected. Blueprint:  BP_Camicadse Function:  Delay Call Stack:  Show
+[2021.08.29-00.21.09:464][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-00.21.09:464][528]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainArena
+[2021.08.29-00.21.09:465][528]LogWorld: UWorld::CleanupWorld for MainArena, bSessionEnded=true, bCleanupResources=true
+[2021.08.29-00.21.09:469][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-00.21.09:505][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.29-00.21.09:514][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-00.21.09:556][528]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.29-00.21.09:557][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-00.21.09:559][528]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-00.21.09:562][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-00.21.09:576][528]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.08.29-00.21.09:623][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.08.29-00.21.09:792][529]LogPlayLevel: Display: Destroying online subsystem :Context_129
+[2021.08.29-00.21.24:156][866]LogSlate: Window 'Message Log' being destroyed
+[2021.08.29-00.21.24:203][866]LogSlate: Window 'Message Log' being destroyed
+[2021.08.29-00.21.43:942][373]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.08.29-00.21.43:990][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.29-00.21.43:990][373]PIE: New page: PIE session: MainArena (29 авг. 2021 г., 06:21:43)
+[2021.08.29-00.21.43:990][373]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainArena
+[2021.08.29-00.21.44:034][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042971s)
+[2021.08.29-00.21.44:035][373]LogAIModule: Creating AISystem for world MainArena
+[2021.08.29-00.21.44:036][373]LogPlayLevel: PIE: World Init took: (0.001713s)
+[2021.08.29-00.21.44:036][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainArena.MainArena to /Game/Maps/UEDPIE_0_MainArena.MainArena (0.044894s)
+[2021.08.29-00.21.44:089][373]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2021.08.29-00.21.44:100][373]LogAudio: Display: Creating Audio Device:                 Id: 108, Scope: Unique, Realtime: True
+[2021.08.29-00.21.44:100][373]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.29-00.21.44:100][373]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.29-00.21.44:100][373]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.29-00.21.44:100][373]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.29-00.21.44:100][373]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.29-00.21.44:100][373]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.29-00.21.44:100][373]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.29-00.21.44:100][373]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.29-00.21.44:101][373]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.29-00.21.44:101][373]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.29-00.21.44:109][373]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.29-00.21.44:109][373]LogAudioMixer: Display: 1: FrontRight
+[2021.08.29-00.21.44:124][373]LogAudioMixer: Display: Using Audio Device Наушники (XMFHZ02 Stereo)
+[2021.08.29-00.21.44:124][373]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.29-00.21.44:124][373]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.29-00.21.44:125][373]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.29-00.21.44:126][373]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.29-00.21.44:126][373]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.29-00.21.44:127][373]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.29-00.21.44:127][373]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.29-00.21.44:127][373]LogInit: FAudioDevice initialized.
+[2021.08.29-00.21.44:127][373]LogAudio: Display: Audio Device (ID: 108) registered with world 'MainArena'.
+[2021.08.29-00.21.44:139][373]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.29-00.21.44:161][373]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainArena.MainArena up for play (max tick rate 0) at 2021.08.29-03.21.44
+[2021.08.29-00.21.44:162][373]LogWorld: Bringing up level for play took: 0.022965
+[2021.08.29-00.21.44:163][373]LogOnline: OSS: Creating online subsystem instance for: :Context_130
+[2021.08.29-00.21.44:185][373]PIE: Server logged in
+[2021.08.29-00.21.44:186][373]PIE: Play in editor total start time 0,232 seconds.
+[2021.08.29-00.21.44:221][373]LogBlueprintUserMessages: [MainArena_C_1] New wave comming...
+[2021.08.29-00.21.44:221][373]LogBlueprintUserMessages: [MainArena_C_1] Wave 1
+[2021.08.29-00.21.44:222][373]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.21.44:223][373]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.21.44:223][373]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.21.44:223][373]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.21.44:224][373]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.21.44:224][373]LogBlueprintUserMessages: [MainArena_C_1] Wave complited
+[2021.08.29-00.21.44:282][374]LogBlueprintUserMessages: [BP_Camicadse_C_1] Battle mod on
+[2021.08.29-00.21.44:332][375]LogBlueprintUserMessages: [DefaultEnemy_C_1] Battle mod on
+[2021.08.29-00.21.50:571][599]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	BP_Camicadse_C /Game/Maps/UEDPIE_0_MainArena.MainArena:PersistentLevel.BP_Camicadse_C_1
+	Function /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse_C:ExecuteUbergraph_BP_Camicadse:0000
+[2021.08.29-00.21.50:571][599]PIE: Error: Infinite loop detected. Blueprint:  BP_Camicadse Function:  Delay Call Stack:  Show
+[2021.08.29-00.21.50:634][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-00.21.50:634][599]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainArena
+[2021.08.29-00.21.50:635][599]LogWorld: UWorld::CleanupWorld for MainArena, bSessionEnded=true, bCleanupResources=true
+[2021.08.29-00.21.50:640][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-00.21.50:676][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.29-00.21.50:754][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-00.21.50:800][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.29-00.21.50:803][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-00.21.50:804][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-00.21.50:807][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-00.21.50:822][599]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2021.08.29-00.21.50:871][599]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.08.29-00.21.51:099][600]LogPlayLevel: Display: Destroying online subsystem :Context_130
+[2021.08.29-00.21.53:458][651]LogSlate: Window 'Message Log' being destroyed
+[2021.08.29-00.21.53:505][651]LogSlate: Window 'Message Log' being destroyed
+[2021.08.29-00.21.55:942][706]Cmd: DELETE
+[2021.08.29-00.21.55:942][706]Cmd: ACTOR DELETE
+[2021.08.29-00.21.55:955][706]LogEditorActor: Deleted Actor: BP_Camicadse_C
+[2021.08.29-00.21.56:006][706]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2021.08.29-00.21.56:014][706]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2021.08.29-00.21.57:365][740]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.08.29-00.21.57:380][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.29-00.21.57:380][740]PIE: New page: PIE session: MainArena (29 авг. 2021 г., 06:21:57)
+[2021.08.29-00.21.57:380][740]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainArena
+[2021.08.29-00.21.57:426][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046233s)
+[2021.08.29-00.21.57:428][740]LogAIModule: Creating AISystem for world MainArena
+[2021.08.29-00.21.57:428][740]LogPlayLevel: PIE: World Init took: (0.001983s)
+[2021.08.29-00.21.57:429][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainArena.MainArena to /Game/Maps/UEDPIE_0_MainArena.MainArena (0.048453s)
+[2021.08.29-00.21.57:471][740]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.08.29-00.21.57:473][740]LogAudio: Display: Creating Audio Device:                 Id: 109, Scope: Unique, Realtime: True
+[2021.08.29-00.21.57:473][740]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.29-00.21.57:473][740]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.29-00.21.57:473][740]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.29-00.21.57:473][740]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.29-00.21.57:473][740]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.29-00.21.57:473][740]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.29-00.21.57:473][740]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.29-00.21.57:473][740]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.29-00.21.57:474][740]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.29-00.21.57:474][740]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.29-00.21.57:480][740]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.29-00.21.57:480][740]LogAudioMixer: Display: 1: FrontRight
+[2021.08.29-00.21.57:494][740]LogAudioMixer: Display: Using Audio Device Наушники (XMFHZ02 Stereo)
+[2021.08.29-00.21.57:494][740]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.29-00.21.57:494][740]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.29-00.21.57:494][740]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.29-00.21.57:495][740]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.29-00.21.57:495][740]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.29-00.21.57:496][740]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.29-00.21.57:496][740]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.29-00.21.57:496][740]LogInit: FAudioDevice initialized.
+[2021.08.29-00.21.57:496][740]LogAudio: Display: Audio Device (ID: 109) registered with world 'MainArena'.
+[2021.08.29-00.21.57:507][740]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.29-00.21.57:527][740]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainArena.MainArena up for play (max tick rate 0) at 2021.08.29-03.21.57
+[2021.08.29-00.21.57:527][740]LogWorld: Bringing up level for play took: 0.019814
+[2021.08.29-00.21.57:528][740]LogOnline: OSS: Creating online subsystem instance for: :Context_131
+[2021.08.29-00.21.57:548][740]PIE: Server logged in
+[2021.08.29-00.21.57:549][740]PIE: Play in editor total start time 0,173 seconds.
+[2021.08.29-00.21.57:580][740]LogBlueprintUserMessages: [MainArena_C_1] New wave comming...
+[2021.08.29-00.21.57:580][740]LogBlueprintUserMessages: [MainArena_C_1] Wave 1
+[2021.08.29-00.21.57:581][740]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.21.57:581][740]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.21.57:582][740]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.21.57:582][740]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.21.57:583][740]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.21.57:583][740]LogBlueprintUserMessages: [MainArena_C_1] Wave complited
+[2021.08.29-00.21.58:149][754]LogBlueprintUserMessages: [DefaultEnemy_C_1] Battle mod on
+[2021.08.29-00.22.00:139][821]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Get Damage1.0
+[2021.08.29-00.22.00:163][822]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Get Damage1.0
+[2021.08.29-00.22.03:608][950]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Get Damage1.0
+[2021.08.29-00.22.03:634][951]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Get Damage1.0
+[2021.08.29-00.22.09:334][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-00.22.09:334][134]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainArena
+[2021.08.29-00.22.09:334][134]LogWorld: UWorld::CleanupWorld for MainArena, bSessionEnded=true, bCleanupResources=true
+[2021.08.29-00.22.09:338][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-00.22.09:355][134]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.29-00.22.09:365][134]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-00.22.09:405][134]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-00.22.09:408][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-00.22.09:409][134]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-00.22.09:425][134]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2021.08.29-00.22.09:478][134]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2021.08.29-00.22.09:546][135]LogPlayLevel: Display: Destroying online subsystem :Context_131
+[2021.08.29-00.22.10:952][173]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.08.29-00.22.10:966][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.29-00.22.10:966][173]PIE: New page: PIE session: MainArena (29 авг. 2021 г., 06:22:10)
+[2021.08.29-00.22.10:966][173]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainArena
+[2021.08.29-00.22.11:015][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.048929s)
+[2021.08.29-00.22.11:017][173]LogAIModule: Creating AISystem for world MainArena
+[2021.08.29-00.22.11:017][173]LogPlayLevel: PIE: World Init took: (0.001990s)
+[2021.08.29-00.22.11:018][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainArena.MainArena to /Game/Maps/UEDPIE_0_MainArena.MainArena (0.051154s)
+[2021.08.29-00.22.11:061][173]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2021.08.29-00.22.11:064][173]LogAudio: Display: Creating Audio Device:                 Id: 110, Scope: Unique, Realtime: True
+[2021.08.29-00.22.11:064][173]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.29-00.22.11:064][173]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.29-00.22.11:064][173]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.29-00.22.11:064][173]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.29-00.22.11:064][173]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.29-00.22.11:064][173]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.29-00.22.11:064][173]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.29-00.22.11:064][173]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.29-00.22.11:065][173]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.29-00.22.11:065][173]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.29-00.22.11:071][173]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.29-00.22.11:071][173]LogAudioMixer: Display: 1: FrontRight
+[2021.08.29-00.22.11:084][173]LogAudioMixer: Display: Using Audio Device Наушники (XMFHZ02 Stereo)
+[2021.08.29-00.22.11:084][173]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.29-00.22.11:084][173]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.29-00.22.11:084][173]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.29-00.22.11:085][173]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.29-00.22.11:085][173]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.29-00.22.11:086][173]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.29-00.22.11:086][173]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.29-00.22.11:086][173]LogInit: FAudioDevice initialized.
+[2021.08.29-00.22.11:086][173]LogAudio: Display: Audio Device (ID: 110) registered with world 'MainArena'.
+[2021.08.29-00.22.11:097][173]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.29-00.22.11:116][173]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainArena.MainArena up for play (max tick rate 0) at 2021.08.29-03.22.11
+[2021.08.29-00.22.11:117][173]LogWorld: Bringing up level for play took: 0.019206
+[2021.08.29-00.22.11:117][173]LogOnline: OSS: Creating online subsystem instance for: :Context_132
+[2021.08.29-00.22.11:136][173]PIE: Server logged in
+[2021.08.29-00.22.11:137][173]PIE: Play in editor total start time 0,173 seconds.
+[2021.08.29-00.22.11:180][173]LogBlueprintUserMessages: [MainArena_C_1] New wave comming...
+[2021.08.29-00.22.11:180][173]LogBlueprintUserMessages: [MainArena_C_1] Wave 1
+[2021.08.29-00.22.11:181][173]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.22.11:181][173]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.22.11:182][173]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.22.11:182][173]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.22.11:183][173]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.22.11:183][173]LogBlueprintUserMessages: [MainArena_C_1] Wave complited
+[2021.08.29-00.22.11:239][174]LogBlueprintUserMessages: [DefaultEnemy_C_1] Battle mod on
+[2021.08.29-00.22.21:934][575]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Get Damage1.0
+[2021.08.29-00.22.23:120][622]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Get Damage1.0
+[2021.08.29-00.22.29:264][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-00.22.29:265][857]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainArena
+[2021.08.29-00.22.29:265][857]LogWorld: UWorld::CleanupWorld for MainArena, bSessionEnded=true, bCleanupResources=true
+[2021.08.29-00.22.29:270][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-00.22.29:293][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.29-00.22.29:304][857]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-00.22.29:353][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-00.22.29:358][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-00.22.29:359][857]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-00.22.29:376][857]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2021.08.29-00.22.29:426][857]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2021.08.29-00.22.29:484][858]LogPlayLevel: Display: Destroying online subsystem :Context_132
+[2021.08.29-00.22.30:285][878]LogEditorViewport: Clicking Background
+[2021.08.29-00.22.30:343][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainArena" FILE="../../../../Project madness/project-madness/Content/Maps/MainArena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.29-00.22.30:387][878]LogUObjectHash: Compacting FUObjectHashTables data took   4.93ms
+[2021.08.29-00.22.30:551][878]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/MainArena7548328843C5D48D02AF75A496A6147F.tmp' to '../../../../Project madness/project-madness/Content/Maps/MainArena.umap'
+[2021.08.29-00.22.30:569][878]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/MainArena_BuiltData
+[2021.08.29-00.22.30:569][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainArena_BuiltData" FILE="../../../../Project madness/project-madness/Content/Maps/MainArena_BuiltData.uasset" SILENT=true
+[2021.08.29-00.22.30:593][878]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/MainArena_BuiltData87B1C42948AE7D69DA32C5AE5E43F2ED.tmp' to '../../../../Project madness/project-madness/Content/Maps/MainArena_BuiltData.uasset'
+[2021.08.29-00.22.30:594][878]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/MainArena_BuiltData
+[2021.08.29-00.22.30:626][878]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.29-00.22.30:626][878]LogContentValidation: Display: Validating World /Game/Maps/MainArena.MainArena
+[2021.08.29-00.22.30:626][878]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainArena_BuiltData.MainArena_BuiltData
+[2021.08.29-00.22.50:113][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.22.50:175][181]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_CamicadseE136D3F34C43124B544B3BAA556DF61C.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.22.50:193][181]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.22.50:193][181]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.23.00:194][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/Default/DefaultEnemy" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/Default/DefaultEnemy.uasset" SILENT=true
+[2021.08.29-00.23.00:294][703]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/DefaultEnemy29D137B04BFCE8B074080AB0995ED82D.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/Default/DefaultEnemy.uasset'
+[2021.08.29-00.23.00:315][703]AssetCheck: New page: Asset Save: DefaultEnemy
+[2021.08.29-00.23.00:315][703]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/Default/DefaultEnemy.DefaultEnemy
+[2021.08.29-00.23.08:000][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/Default/DefaultEnemy" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/Default/DefaultEnemy.uasset" SILENT=true
+[2021.08.29-00.23.08:088][168]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/DefaultEnemy3E257F7E4502B0F41A2BBA98215A6757.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/Default/DefaultEnemy.uasset'
+[2021.08.29-00.23.08:105][168]AssetCheck: New page: Asset Save: DefaultEnemy
+[2021.08.29-00.23.08:105][168]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/Default/DefaultEnemy.DefaultEnemy
+[2021.08.29-00.23.09:195][237]BlueprintLog: New page: Compile DefaultEnemy
+[2021.08.29-00.23.09:321][237]LogUObjectHash: Compacting FUObjectHashTables data took   6.31ms
+[2021.08.29-00.23.10:132][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/Default/DefaultEnemy" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/Default/DefaultEnemy.uasset" SILENT=true
+[2021.08.29-00.23.10:242][268]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/DefaultEnemy15F2964D42B8283F110FB6A8D45035B3.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/Default/DefaultEnemy.uasset'
+[2021.08.29-00.23.10:259][268]AssetCheck: New page: Asset Save: DefaultEnemy
+[2021.08.29-00.23.10:259][268]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/Default/DefaultEnemy.DefaultEnemy
+[2021.08.29-00.23.11:824][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainArena" FILE="../../../../Project madness/project-madness/Content/Maps/MainArena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.29-00.23.11:874][321]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2021.08.29-00.23.12:048][321]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/MainArenaF8A7C9D84CE00642EA02D599E5F5AF48.tmp' to '../../../../Project madness/project-madness/Content/Maps/MainArena.umap'
+[2021.08.29-00.23.12:070][321]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/MainArena_BuiltData
+[2021.08.29-00.23.12:070][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainArena_BuiltData" FILE="../../../../Project madness/project-madness/Content/Maps/MainArena_BuiltData.uasset" SILENT=true
+[2021.08.29-00.23.12:097][321]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/MainArena_BuiltDataFA92545546D0D8453A6B22BE52F9DFFF.tmp' to '../../../../Project madness/project-madness/Content/Maps/MainArena_BuiltData.uasset'
+[2021.08.29-00.23.12:098][321]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/MainArena_BuiltData
+[2021.08.29-00.23.12:116][321]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.29-00.23.12:116][321]LogContentValidation: Display: Validating World /Game/Maps/MainArena.MainArena
+[2021.08.29-00.23.12:116][321]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainArena_BuiltData.MainArena_BuiltData
+[2021.08.29-00.23.12:740][340]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.08.29-00.23.12:755][340]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.08.29-00.23.12:756][340]LogPlayLevel: [PlayLevel] Compiling BP_Camicadse before play...
+[2021.08.29-00.23.12:896][340]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2021.08.29-00.23.12:900][340]LogPlayLevel: PlayLevel: Blueprint regeneration took 144 ms (1 blueprints)
+[2021.08.29-00.23.12:900][340]PIE: New page: PIE session: MainArena (29 авг. 2021 г., 06:23:12)
+[2021.08.29-00.23.12:900][340]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainArena
+[2021.08.29-00.23.12:964][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063883s)
+[2021.08.29-00.23.12:966][340]LogAIModule: Creating AISystem for world MainArena
+[2021.08.29-00.23.12:967][340]LogPlayLevel: PIE: World Init took: (0.002858s)
+[2021.08.29-00.23.12:967][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainArena.MainArena to /Game/Maps/UEDPIE_0_MainArena.MainArena (0.067028s)
+[2021.08.29-00.23.13:017][340]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2021.08.29-00.23.13:019][340]LogAudio: Display: Creating Audio Device:                 Id: 111, Scope: Unique, Realtime: True
+[2021.08.29-00.23.13:019][340]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.29-00.23.13:019][340]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.29-00.23.13:019][340]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.29-00.23.13:019][340]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.29-00.23.13:019][340]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.29-00.23.13:019][340]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.29-00.23.13:019][340]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.29-00.23.13:019][340]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.29-00.23.13:020][340]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.29-00.23.13:020][340]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.29-00.23.13:028][340]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.29-00.23.13:028][340]LogAudioMixer: Display: 1: FrontRight
+[2021.08.29-00.23.13:043][340]LogAudioMixer: Display: Using Audio Device Наушники (XMFHZ02 Stereo)
+[2021.08.29-00.23.13:043][340]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.29-00.23.13:043][340]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.29-00.23.13:043][340]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.29-00.23.13:045][340]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.29-00.23.13:045][340]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.29-00.23.13:046][340]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.29-00.23.13:046][340]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.29-00.23.13:046][340]LogInit: FAudioDevice initialized.
+[2021.08.29-00.23.13:046][340]LogAudio: Display: Audio Device (ID: 111) registered with world 'MainArena'.
+[2021.08.29-00.23.13:060][340]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.29-00.23.13:081][340]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainArena.MainArena up for play (max tick rate 0) at 2021.08.29-03.23.13
+[2021.08.29-00.23.13:081][340]LogWorld: Bringing up level for play took: 0.021540
+[2021.08.29-00.23.13:082][340]LogOnline: OSS: Creating online subsystem instance for: :Context_133
+[2021.08.29-00.23.13:104][340]PIE: Server logged in
+[2021.08.29-00.23.13:105][340]PIE: Play in editor total start time 0,354 seconds.
+[2021.08.29-00.23.13:141][340]LogBlueprintUserMessages: [MainArena_C_1] New wave comming...
+[2021.08.29-00.23.13:141][340]LogBlueprintUserMessages: [MainArena_C_1] Wave 1
+[2021.08.29-00.23.13:142][340]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.23.13:143][340]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.23.13:143][340]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.23.13:143][340]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.23.13:144][340]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.23.13:144][340]LogBlueprintUserMessages: [MainArena_C_1] Wave complited
+[2021.08.29-00.23.14:207][373]LogBlueprintUserMessages: [DefaultEnemy_C_1] Battle mod on
+[2021.08.29-00.23.16:347][453]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Get Damage1.0
+[2021.08.29-00.23.16:380][454]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Get Damage1.0
+[2021.08.29-00.23.16:414][455]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Get Damage1.0
+[2021.08.29-00.23.19:512][573]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Get Damage1.0
+[2021.08.29-00.23.19:534][574]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Get Damage1.0
+[2021.08.29-00.23.20:740][618]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Get Damage1.0
+[2021.08.29-00.23.26:490][845]LogBlueprintUserMessages: [DefaultEnemy_C_1] Killed
+[2021.08.29-00.23.27:124][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-00.23.27:124][867]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainArena
+[2021.08.29-00.23.27:125][867]LogWorld: UWorld::CleanupWorld for MainArena, bSessionEnded=true, bCleanupResources=true
+[2021.08.29-00.23.27:128][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-00.23.27:189][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.29-00.23.27:199][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-00.23.27:242][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-00.23.27:245][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-00.23.27:247][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-00.23.27:261][867]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2021.08.29-00.23.27:313][867]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.08.29-00.23.27:382][868]LogPlayLevel: Display: Destroying online subsystem :Context_133
+[2021.08.29-00.23.28:141][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainArena" FILE="../../../../Project madness/project-madness/Content/Maps/MainArena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.29-00.23.28:180][884]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.08.29-00.23.28:371][884]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/MainArena2212D2714F2B22A52C438BB9B93DAF12.tmp' to '../../../../Project madness/project-madness/Content/Maps/MainArena.umap'
+[2021.08.29-00.23.28:393][884]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/MainArena_BuiltData
+[2021.08.29-00.23.28:393][884]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainArena_BuiltData" FILE="../../../../Project madness/project-madness/Content/Maps/MainArena_BuiltData.uasset" SILENT=true
+[2021.08.29-00.23.28:422][884]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/MainArena_BuiltData3A57E5A746EF595767921C876D55CEB4.tmp' to '../../../../Project madness/project-madness/Content/Maps/MainArena_BuiltData.uasset'
+[2021.08.29-00.23.28:423][884]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/MainArena_BuiltData
+[2021.08.29-00.23.28:442][884]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.29-00.23.28:442][884]LogContentValidation: Display: Validating World /Game/Maps/MainArena.MainArena
+[2021.08.29-00.23.28:442][884]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainArena_BuiltData.MainArena_BuiltData
+[2021.08.29-00.23.36:506][ 80]LogContentBrowser: Attempting asset rename: Blueprints -> Blueprints
+[2021.08.29-00.23.37:966][110]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ProjectMadness/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.08.29-00.23.55:819][ 40]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/ThirdPersonCharacter4CBAEB5A456C3E184A538DB25144E1D0.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.08.29-00.23.55:842][ 40]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.08.29-00.23.55:842][ 40]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.08.29-00.24.00:844][413]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.08.29-00.24.01:080][413]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2021.08.29-00.24.04:315][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainArena" FILE="../../../../Project madness/project-madness/Content/Maps/MainArena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.29-00.24.04:377][560]LogUObjectHash: Compacting FUObjectHashTables data took   7.44ms
+[2021.08.29-00.24.04:547][560]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/MainArenaDE86E13949E57058C96974A7AA3CB65B.tmp' to '../../../../Project madness/project-madness/Content/Maps/MainArena.umap'
+[2021.08.29-00.24.04:569][560]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/MainArena_BuiltData
+[2021.08.29-00.24.04:570][560]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainArena_BuiltData" FILE="../../../../Project madness/project-madness/Content/Maps/MainArena_BuiltData.uasset" SILENT=true
+[2021.08.29-00.24.04:596][560]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/MainArena_BuiltDataC53B2F044C07D2D6731447AEC8B58E85.tmp' to '../../../../Project madness/project-madness/Content/Maps/MainArena_BuiltData.uasset'
+[2021.08.29-00.24.04:598][560]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/MainArena_BuiltData
+[2021.08.29-00.24.04:617][560]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.29-00.24.04:617][560]LogContentValidation: Display: Validating World /Game/Maps/MainArena.MainArena
+[2021.08.29-00.24.04:617][560]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainArena_BuiltData.MainArena_BuiltData
+[2021.08.29-00.25.09:989][554]BlueprintLog: New page: Compile DefaultEnemy
+[2021.08.29-00.25.10:119][554]LogUObjectHash: Compacting FUObjectHashTables data took   7.05ms
+[2021.08.29-00.25.11:060][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/Default/DefaultEnemy" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/Default/DefaultEnemy.uasset" SILENT=true
+[2021.08.29-00.25.11:180][604]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/DefaultEnemy8D57204E41942421E55F438938FDE16D.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/Default/DefaultEnemy.uasset'
+[2021.08.29-00.25.11:202][604]AssetCheck: New page: Asset Save: DefaultEnemy
+[2021.08.29-00.25.11:202][604]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/Default/DefaultEnemy.DefaultEnemy
+[2021.08.29-00.25.28:322][792]LogEditorTransaction: Undo Move Node
+[2021.08.29-00.25.33:078][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.25.33:151][163]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse62FF26B3444B7E71EE1C4C9452B83F3F.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.25.33:170][163]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.25.33:170][163]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.25.35:609][322]BlueprintLog: New page: Compile BP_Camicadse
+[2021.08.29-00.25.35:725][322]LogUObjectHash: Compacting FUObjectHashTables data took   8.51ms
+[2021.08.29-00.25.36:203][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Camicadse" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset" SILENT=true
+[2021.08.29-00.25.36:268][339]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_Camicadse5B16A5244E0D1E017C8527AA5BA34009.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Camicadse.uasset'
+[2021.08.29-00.25.36:286][339]AssetCheck: New page: Asset Save: BP_Camicadse
+[2021.08.29-00.25.36:287][339]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Camicadse.BP_Camicadse
+[2021.08.29-00.25.37:596][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProjectMadness/Enemies/sphere/BP_Explosion" FILE="../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Explosion.uasset" SILENT=true
+[2021.08.29-00.25.37:608][409]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/BP_ExplosionE30FC6A54857ECE8243B5AA2C4D2002F.tmp' to '../../../../Project madness/project-madness/Content/ProjectMadness/Enemies/sphere/BP_Explosion.uasset'
+[2021.08.29-00.25.37:628][409]AssetCheck: New page: Asset Save: BP_Explosion
+[2021.08.29-00.25.37:628][409]LogContentValidation: Display: Validating Blueprint /Game/ProjectMadness/Enemies/sphere/BP_Explosion.BP_Explosion
+[2021.08.29-00.25.38:844][466]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.08.29-00.25.38:844][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-00.25.41:196][619]BlueprintLog: New page: Compile DefaultEnemy
+[2021.08.29-00.25.41:331][619]LogUObjectHash: Compacting FUObjectHashTables data took   7.39ms
+[2021.08.29-00.25.43:114][721]BlueprintLog: New page: Compile BP_Camicadse
+[2021.08.29-00.25.43:233][721]LogUObjectHash: Compacting FUObjectHashTables data took  10.14ms
+[2021.08.29-00.25.47:391][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainArena" FILE="../../../../Project madness/project-madness/Content/Maps/MainArena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.08.29-00.25.47:448][915]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2021.08.29-00.25.47:628][915]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/MainArena24BA3B354A9BFA44800CF892507CAD44.tmp' to '../../../../Project madness/project-madness/Content/Maps/MainArena.umap'
+[2021.08.29-00.25.47:650][915]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/MainArena_BuiltData
+[2021.08.29-00.25.47:650][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainArena_BuiltData" FILE="../../../../Project madness/project-madness/Content/Maps/MainArena_BuiltData.uasset" SILENT=true
+[2021.08.29-00.25.47:675][915]LogSavePackage: Moving '../../../../Project madness/project-madness/Saved/MainArena_BuiltData04F24C7248A1C5D08AFB85AE7DCB0B74.tmp' to '../../../../Project madness/project-madness/Content/Maps/MainArena_BuiltData.uasset'
+[2021.08.29-00.25.47:677][915]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/Maps/MainArena_BuiltData
+[2021.08.29-00.25.47:696][915]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.29-00.25.47:696][915]LogContentValidation: Display: Validating World /Game/Maps/MainArena.MainArena
+[2021.08.29-00.25.47:696][915]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainArena_BuiltData.MainArena_BuiltData
+[2021.08.29-00.25.48:376][934]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2021.08.29-00.25.48:392][934]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.08.29-00.25.48:393][934]PIE: New page: PIE session: MainArena (29 авг. 2021 г., 06:25:48)
+[2021.08.29-00.25.48:393][934]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainArena
+[2021.08.29-00.25.48:440][934]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047073s)
+[2021.08.29-00.25.48:441][934]LogAIModule: Creating AISystem for world MainArena
+[2021.08.29-00.25.48:442][934]LogPlayLevel: PIE: World Init took: (0.001960s)
+[2021.08.29-00.25.48:442][934]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainArena.MainArena to /Game/Maps/UEDPIE_0_MainArena.MainArena (0.049273s)
+[2021.08.29-00.25.48:487][934]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.08.29-00.25.48:489][934]LogAudio: Display: Creating Audio Device:                 Id: 112, Scope: Unique, Realtime: True
+[2021.08.29-00.25.48:489][934]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.29-00.25.48:490][934]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.29-00.25.48:490][934]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.29-00.25.48:490][934]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.29-00.25.48:490][934]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.29-00.25.48:490][934]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.29-00.25.48:490][934]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.29-00.25.48:490][934]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.29-00.25.48:490][934]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.29-00.25.48:490][934]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.29-00.25.48:497][934]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.29-00.25.48:497][934]LogAudioMixer: Display: 1: FrontRight
+[2021.08.29-00.25.48:511][934]LogAudioMixer: Display: Using Audio Device Наушники (XMFHZ02 Stereo)
+[2021.08.29-00.25.48:511][934]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.29-00.25.48:511][934]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.29-00.25.48:511][934]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.29-00.25.48:512][934]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.29-00.25.48:512][934]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.29-00.25.48:513][934]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.29-00.25.48:513][934]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.29-00.25.48:513][934]LogInit: FAudioDevice initialized.
+[2021.08.29-00.25.48:513][934]LogAudio: Display: Audio Device (ID: 112) registered with world 'MainArena'.
+[2021.08.29-00.25.48:521][934]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.08.29-00.25.48:540][934]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainArena.MainArena up for play (max tick rate 0) at 2021.08.29-03.25.48
+[2021.08.29-00.25.48:541][934]LogWorld: Bringing up level for play took: 0.018959
+[2021.08.29-00.25.48:541][934]LogOnline: OSS: Creating online subsystem instance for: :Context_136
+[2021.08.29-00.25.48:560][934]PIE: Server logged in
+[2021.08.29-00.25.48:561][934]PIE: Play in editor total start time 0,173 seconds.
+[2021.08.29-00.25.48:594][934]LogBlueprintUserMessages: [MainArena_C_1] New wave comming...
+[2021.08.29-00.25.48:594][934]LogBlueprintUserMessages: [MainArena_C_1] Wave 1
+[2021.08.29-00.25.48:595][934]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.25.48:596][934]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.25.48:596][934]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.25.48:597][934]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.25.48:597][934]LogChaos: Warning: Attempting to release an actor with a null handle
+[2021.08.29-00.25.48:598][934]LogBlueprintUserMessages: [MainArena_C_1] Wave complited
+[2021.08.29-00.25.48:830][936]LogBlueprintUserMessages: [DefaultEnemy_C_1] Battle mod on
+[2021.08.29-00.25.53:335][103]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Get Damage1.0
+[2021.08.29-00.25.56:833][241]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Get Damage1.0
+[2021.08.29-00.25.59:825][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-00.25.59:825][354]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainArena
+[2021.08.29-00.25.59:825][354]LogWorld: UWorld::CleanupWorld for MainArena, bSessionEnded=true, bCleanupResources=true
+[2021.08.29-00.25.59:828][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-00.25.59:877][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.08.29-00.25.59:907][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.29-00.25.59:948][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.29-00.25.59:949][354]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-00.25.59:950][354]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.08.29-00.25.59:966][354]LogUObjectHash: Compacting FUObjectHashTables data took   5.00ms
+[2021.08.29-00.26.00:022][354]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2021.08.29-00.26.00:125][355]LogPlayLevel: Display: Destroying online subsystem :Context_136
